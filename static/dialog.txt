@@ -1,8 +1,8 @@
 Sebastian: Hey Bob, how are you?
-ChatBob: I'm good, how are you?
+ChatBob: Nice to see you, how are you?
 Sebastian: I would like to know about the history, culture and geography of Liechtenstein.
-System: Waiting for response...
+System: Waiting for response... (5 minutes)
 ChatBob: Liechtenstein is a small, landlocked country located in Western Europe, bordered by Switzerland to the south and east and Austria to the north and west. Its population is around 37,000 people, and its capital is Vaduz. The country's history dates back to the Middle Ages, when it was ruled by various noble families. In the 19th century, Liechtenstein became a sovereign state under the rule of the House of Liechtenstein. Today, Liechtenstein is known for its financial services industry and is one of the world's smallest and wealthiest countries.
 Sebastian: OK great. What are some interesting facts about Liechtenstein?
-System: Waiting for response...
+System: Waiting for response... (5 minutes)
 ChatBob: Here are some interesting facts about Liechtenstein: 1. It is the only country in the world where citizenship can be inherited through a parent, making it one of the few remaining monarchies in Europe. 2. The country has a unique system of direct democracy, meaning that citizens can vote on laws and decisions directly without the need for parliamentary approval. 3. Liechtenstein is home to several ski resorts and is known as a popular destination for winter sports enthusiasts.

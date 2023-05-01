@@ -35,11 +35,11 @@ body {
 }
 
 .chat-message {
-    display: inline;
+    display: flex;
     text-align: left;
     padding: 20px;
     border-radius: 5px;
-    max-width: 50%;
+    width: 50%;
     word-wrap: break-word;
     background-color: transparent;
 }
