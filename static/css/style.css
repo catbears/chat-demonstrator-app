@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#chat-container {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.message-container {
+    display: inline-block;
+    text-align: left;
+    max-width: 50%;
+}
+
+.full-width {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.full-width.sebastian {
+    background-color: #ffffff;
+}
+
+.full-width.chatbob {
+    background-color: #f7f7f8;
+}
+
+.full-width.system {
+    background-color: rgba(243, 214, 70, 0.47);
+}
+
+.chat-message {
+    display: inline;
+    text-align: left;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 50%;
+    word-wrap: break-word;
+    background-color: transparent;
+}
+
+.reminder {
+    text-align: center;
+    font-size: 0.9em;
+    color: #777;
+    padding: 20px;
+}
+
+.avatar {
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: center;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+.avatar-wrapper {
+    position: absolute;
+    left: 100px;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.username {
+    font-size: 0.8em;
+}
+
+.sebastian-avatar {
+    background-image: url('../images/sebastian_avatar.png');
+}
+
+.chatbob-avatar {
+    background-image: url('../images/chatbob_avatar.png');
+}
+
+.system-avatar {
+    background-image: url('../images/system_avatar.jpg');
+}
